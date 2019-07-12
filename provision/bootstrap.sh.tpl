@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "ENTER PROVISIONING SCRIPT HERE"
